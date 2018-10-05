@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzToGLib", "OzToGLib\OzToGLib.csproj", "{136B05B1-EC2E-44BC-9CE9-65E27034782B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{65345418-A9F3-4A98-BB36-5D7293F14329}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{136B05B1-EC2E-44BC-9CE9-65E27034782B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{136B05B1-EC2E-44BC-9CE9-65E27034782B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{136B05B1-EC2E-44BC-9CE9-65E27034782B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65345418-A9F3-4A98-BB36-5D7293F14329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65345418-A9F3-4A98-BB36-5D7293F14329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65345418-A9F3-4A98-BB36-5D7293F14329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65345418-A9F3-4A98-BB36-5D7293F14329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
